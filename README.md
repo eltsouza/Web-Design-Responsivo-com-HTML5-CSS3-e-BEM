@@ -7,5 +7,6 @@ Curso Web Design Responsivo com HTML5, CSS3 e BEM ministrado pela AlgaWorks Trei
  * HTML 5
  * CSS 3
  * Metodologia BEM.
+ * Um pouquinho de JavaScript e bootstrap
  
  Durante o treinamento foi desenvolvido um prototipo simples de um site web responsivo que se adpta a diversos tamanhos de tela.
